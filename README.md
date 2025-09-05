@@ -30,6 +30,10 @@ A simple Python application that extracts text from multiple images and compiles
    ```bash
    pip install -r requirements.txt
    ```
+## ▶️ Running the App
+  ```bash
+  python app.py
+  ```
 ## Usage
 
 - Click **Select Images and Save Text to Word**.  
