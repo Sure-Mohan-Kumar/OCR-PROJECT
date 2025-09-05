@@ -1,4 +1,4 @@
-# OCR to Word Document
+## OCR to Word Document
 A simple Python application that extracts text from multiple images and compiles the results into a single Word document. Designed for easy use with a graphical interface and real-time progress feedback.
 ---
 ## Features
